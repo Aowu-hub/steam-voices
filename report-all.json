@@ -1,0 +1,13 @@
+{
+ "at": "2026-11-18T17:26:08.290Z",
+ "mode": "all",
+ "made": 42,
+ "skipped": 4194,
+ "failed": [],
+ "voices": {
+  "us": "en-US-Neural2-F",
+  "gb": "en-GB-Neural2-F",
+  "au": "en-AU-Neural2-A"
+ },
+ "problems": []
+}
